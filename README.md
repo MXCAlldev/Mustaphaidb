@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustapha Idbella</h1>
 <h3 align="center">Software Engineering Student at ALX | Digital Infrastructure intern at OFPPT</h3>
-<img align="right" alt="Coding" width="400" src ="![image](https://user-images.githubusercontent.com/99220661/236087679-551550b3-3188-4eef-9843-37c2dd12cfb4.png)">
+<img align="right" alt="Coding" width="400" src ="<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphaidb&label=Profile%20views&color=0e75b6&style=flat" alt="mustaphaidb" /> </p>
 
 - 👨‍💻 I Share Content in My Instagram Check It Out **https://www.instagram.com/mxcalldev**
