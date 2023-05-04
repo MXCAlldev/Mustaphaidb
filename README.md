@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustapha Idbella</h1>
 <h3 align="center">Software Engineering Student at ALX | Digital Infrastructure intern at OFPPT</h3>
-
+<img align="right" alt="Coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3N1Zv7UXCZzC8lRpgW2V5c&ust=1683249527447000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIC9k6O_2v4CFQAAAAAdAAAAABAz">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphaidb&label=Profile%20views&color=0e75b6&style=flat" alt="mustaphaidb" /> </p>
 
 - 👨‍💻 I Share Content in My Instagram **https://www.instagram.com/mxcalldev**
